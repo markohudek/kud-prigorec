@@ -1,0 +1,6 @@
+@use 'variables' as *;
+
+.container {
+  margin-top: $header-height;
+  height: 150dvh;
+}
